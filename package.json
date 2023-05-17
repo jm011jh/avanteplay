@@ -1,0 +1,21 @@
+{
+  "name": "vite-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.1.0"
+  },
+  "dependencies": {
+    "gsap": "^3.11.4",
+    "three": "^0.150.1",
+    "three-noise": "^1.1.2",
+    "three.meshline": "^1.4.0",
+    "tween.js": "^16.6.0"
+  }
+}
